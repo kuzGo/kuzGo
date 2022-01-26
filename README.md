@@ -1,20 +1,44 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+<p><img src="assets/github.gif" style="min-width:80%" height="auto" alt="Search"></p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><br><br>
+</p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Goran</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Ireland.</h3>
-
+<h3 align="center">I'm a passionate Full Stack Developer, Dad, Husband and Platform Experience Associate from Ireland.</h3>
+<br>
+<br>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Kuzco Watches](https://kuzco-watches.herokuapp.com/)**
+- 🔭 I’m currently working on **[Live Chatroom](https://github.com/kuzGo/realtime-chatroom)**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **Everything Awsome**
 
 - 📫 How to reach me **gorankuzma467@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I can speak more than one languange.**
+<br>
+<br>
 
 ## 🚀 Languages and Tools:
 
