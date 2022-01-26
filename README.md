@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Kuzco Watches](https://kuzco-watches.herokuapp.com/)**
+- 🔭 I’m currently working on **[Live Chat Room](https://github.com/kuzGo/realtime-chatroom)**
 
 - 🌱 I’m currently learning **Django**
 
